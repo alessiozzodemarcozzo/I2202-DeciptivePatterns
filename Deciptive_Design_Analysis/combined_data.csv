@@ -1,0 +1,28 @@
+timestamp,participant_id,condition,action_taken,deliberation_time_sec,email_entered,checkboxes_checked,nasa_mental_demand,nasa_temporal_demand,nasa_effort,nasa_frustration,willingness_to_recommend,age_group,device_type,purchase_frequency,computer_usage,pressure_perception,sarcastic_mocking_extent,have_read_popup,acceptance
+2026-11-13T17:06:29.071Z,P_SAZZ6K05,v3_condition,clicked_decline_text_link,9.62,False,none,4.0,2.0,3.0,4.0,5.0,22-26,Smartphone,Less than once per month,5-8 hours,5.0,6.0,Yes,0
+2026-11-13T17:24:18.428Z,P_OOO1335B,v2_condition,clicked_decline_text_link,2.06,False,2/2 checked,3.0,2.0,2.0,2.0,8.0,27-32,Smartphone,Less than once per month,5-8 hours,2.0,1.0,Yes,0
+2026-11-13T17:49:42.801Z,P_L2MS60HV,v3_condition,clicked_submit_accept,10.88,False,none,4.0,9.0,3.0,4.0,5.0,22-26,Smartphone,Less than once per month,More than 8 hours,7.0,7.0,Yes,1
+2026-11-13T18:00:01.181Z,P_Z5BWJHR0,v1_condition,clicked_submit_decline,9.11,True,none,6.0,4.0,6.0,8.0,1.0,22-26,Computer / Laptop,Less than once per month,5-8 hours,6.0,1.0,Yes,0
+2026-11-13T18:01:12.161Z,P_YL01FHZU,v3_condition,clicked_decline_text_link,9.88,False,none,5.0,2.0,3.0,5.0,5.0,22-26,Computer / Laptop,Less than once per month,5-8 hours,6.0,5.0,Yes,0
+2026-11-13T19:08:00.532Z,P_CLIJN3TM,v1_condition,clicked_submit_decline,9.48,False,none,5.0,8.0,5.0,10.0,1.0,22-26,Smartphone,Less than once per month,5-8 hours,5.0,1.0,Yes,0
+2026-11-13T21:34:12.342Z,P_TKQZSQUP,v3_condition,clicked_decline_text_link,49.09,False,none,3.0,3.0,3.0,3.0,5.0,22-26,Smartphone,Multiple times per week,More than 8 hours,7.0,7.0,Yes,0
+2026-11-15T10:44:35.929Z,P_EFYSH0OM,v1_condition,clicked_submit_decline,3.9,False,none,3.0,2.0,3.0,3.0,4.0,22-26,Smartphone,Multiple times per week,More than 8 hours,4.0,5.0,Yes,0
+2026-11-16T13:35:50.008Z,P_G5PIE0SR,v1_condition,clicked_submit_decline,19.33,False,none,,,,,,22-26,Computer / Laptop,Multiple times per week,More than 8 hours,,,No,0
+2026-11-16T19:46:42.979Z,P_1PC7XSLL,v1_condition,clicked_submit_decline,4.84,False,none,6.0,5.0,4.0,7.0,1.0,22-26,Smartphone,A couple of times per month,2-4 hours,6.0,7.0,Yes,0
+2026-11-19T11:42:52.315Z,P_AHF2LW2L,v1_condition,clicked_submit_decline,4.36,False,none,4.0,1.0,1.0,5.0,6.0,33-40,Smartphone,A couple of times per month,More than 8 hours,4.0,6.0,Yes,0
+2026-11-19T12:14:30.154Z,P_0QIF0GXY,v1_condition,clicked_submit_decline,3.11,False,none,3.0,3.0,3.0,7.0,5.0,27-32,Smartphone,A couple of times per month,More than 8 hours,7.0,1.0,Yes,0
+2026-11-19T12:27:08.354Z,P_B8NA68SF,v1_condition,clicked_submit_decline,4.14,False,none,3.0,4.0,2.0,2.0,2.0,27-32,Computer / Laptop,Less than once per month,5-8 hours,2.0,2.0,Yes,0
+2026-11-19T12:30:18.335Z,P_BH68SVSM,v2_condition,clicked_submit_accept,39.6,True,2/2 checked,7.0,8.0,6.0,6.0,6.0,27-32,Computer / Laptop,Less than once per month,More than 8 hours,6.0,3.0,Yes,1
+2026-11-19T14:08:09.191Z,P_FY219DB4,v3_condition,clicked_submit_accept,6.16,False,none,6.0,7.0,3.0,7.0,5.0,22-26,Computer / Laptop,Less than once per month,5-8 hours,7.0,3.0,Yes,1
+2026-11-19T16:03:39.848Z,P_XRM0SFQQ,v2_condition,clicked_decline_text_link,3.67,False,2/2 checked,1.0,2.0,1.0,1.0,2.0,22-26,Computer / Laptop,Less than once per month,5-8 hours,4.0,1.0,No,0
+2026-11-19T17:06:00.512Z,P_V9J3HBLE,v3_condition,clicked_submit_accept,8.39,True,none,4.0,7.0,5.0,9.0,1.0,27-32,Computer / Laptop,Less than once per month,5-8 hours,2.0,5.0,Yes,1
+2026-11-19T18:15:50.165Z,P_S6MRBZD5,v1_condition,clicked_submit_decline,7.14,False,none,6.0,7.0,7.0,4.0,3.0,22-26,Computer / Laptop,A couple of times per month,2-4 hours,6.0,2.0,Yes,0
+2026-11-19T19:09:49.636Z,P_G2VDJGGK,v1_condition,clicked_submit_decline,13.22,False,none,2.0,8.0,2.0,9.0,4.0,22-26,Smartphone,A couple of times per month,5-8 hours,7.0,4.0,Yes,0
+2026-11-20T06:28:07.420Z,P_RU7BOAX8,v1_condition,clicked_submit_decline,4.06,False,none,2.0,2.0,1.0,1.0,3.0,22-26,Smartphone,Less than once per month,More than 8 hours,7.0,1.0,Yes,0
+2026-11-20T06:56:14.232Z,P_M8DAER0G,v2_condition,clicked_decline_text_link,6.23,False,2/2 checked,3.0,9.0,8.0,8.0,2.0,33-40,Smartphone,A couple of times per month,More than 8 hours,5.0,1.0,Yes,0
+2026-11-20T07:57:48.613Z,P_O42Q3WNV,v3_condition,clicked_decline_text_link,25.27,False,none,4.0,3.0,3.0,7.0,3.0,22-26,Smartphone,A couple of times per month,5-8 hours,6.0,7.0,Yes,0
+2026-11-20T11:14:10.501Z,P_AMHB5WLT,v2_condition,clicked_decline_text_link,3.64,False,2/2 checked,2.0,10.0,1.0,9.0,2.0,22-26,Computer / Laptop,Less than once per month,5-8 hours,4.0,4.0,No,0
+2026-11-20T12:30:22.953Z,P_GOO13FZT,v1_condition,clicked_submit_decline,10.74,False,none,2.0,2.0,2.0,4.0,2.0,22-26,Computer / Laptop,A couple of times per month,5-8 hours,5.0,2.0,Yes,0
+2026-11-21T23:39:29.322Z,P_F5I1Y0K2,v2_condition,clicked_decline_text_link,9.89,False,2/2 checked,7.0,9.0,6.0,8.0,5.0,22-26,Computer / Laptop,Multiple times per week,2-4 hours,5.0,3.0,Yes,0
+2026-11-23T22:06:28.804Z,P_12LFO2XH,v1_condition,clicked_submit_accept,13.86,True,none,1.0,10.0,1.0,9.0,4.0,22-26,Computer / Laptop,Never,5-8 hours,7.0,7.0,Yes,1
+2026-11-24T13:27:14.689Z,P_398MYWXZ,v3_condition,clicked_decline_text_link,16.06,False,none,7.0,10.0,5.0,8.0,1.0,22-26,Smartphone,A couple of times per month,More than 8 hours,7.0,7.0,Yes,0
